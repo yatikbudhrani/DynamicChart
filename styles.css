@@ -1,0 +1,16 @@
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  background-color: lightgoldenrodyellow;
+}
+
+#main {
+  width: 80%;
+  margin: auto;
+}
+
+#realTimeChart {
+  max-width: 100%;
+  height: auto;
+}
